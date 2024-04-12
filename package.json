@@ -1,0 +1,22 @@
+{
+  "name": "express-postgre-docker",
+  "version": "1.0.0",
+  "description": "Work on backend with epress and a PostgreSQL docker image",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoine-Bottin/express-postgre-docker.git"
+  },
+  "author": "Antoine Bottin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antoine-Bottin/express-postgre-docker/issues"
+  },
+  "homepage": "https://github.com/Antoine-Bottin/express-postgre-docker#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
